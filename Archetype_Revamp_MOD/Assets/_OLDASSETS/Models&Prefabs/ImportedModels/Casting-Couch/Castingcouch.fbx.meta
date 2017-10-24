@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 2c69f4f5ab9f4654daac48879cf446e6
+timeCreated: 1457464664
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group1
+    100006: group1_pasted__pCube1SmoothProxyGroup
+    100008: group2
+    100010: group2_pasted__pCube3SmoothProxyGroup
+    100012: group3
+    100014: group3_pasted__pCube10SmoothProxyGroup
+    100016: group_pasted__pCube1SmoothProxyGroup
+    100018: pasted__pCube11
+    100020: pasted__pCube4
+    100022: pasted__pCube5
+    100024: pasted__pCube6
+    100026: pCube10SmoothProxyGroup
+    100028: pCube11SmoothProxyGroup
+    100030: pCube12SmoothProxyGroup
+    100032: pCube13
+    100034: pCube14
+    100036: pCube15
+    100038: pCube16
+    100040: pCube1SmoothProxyGroup
+    100042: pCube3SmoothProxyGroup
+    100044: pCube4SmoothProxyGroup
+    100046: pCube6
+    100048: pCube7
+    100050: pCube8
+    100052: pCube9SmoothProxyGroup
+    400000: //RootNode
+    400002: group
+    400004: group1
+    400006: group1_pasted__pCube1SmoothProxyGroup
+    400008: group2
+    400010: group2_pasted__pCube3SmoothProxyGroup
+    400012: group3
+    400014: group3_pasted__pCube10SmoothProxyGroup
+    400016: group_pasted__pCube1SmoothProxyGroup
+    400018: pasted__pCube11
+    400020: pasted__pCube4
+    400022: pasted__pCube5
+    400024: pasted__pCube6
+    400026: pCube10SmoothProxyGroup
+    400028: pCube11SmoothProxyGroup
+    400030: pCube12SmoothProxyGroup
+    400032: pCube13
+    400034: pCube14
+    400036: pCube15
+    400038: pCube16
+    400040: pCube1SmoothProxyGroup
+    400042: pCube3SmoothProxyGroup
+    400044: pCube4SmoothProxyGroup
+    400046: pCube6
+    400048: pCube7
+    400050: pCube8
+    400052: pCube9SmoothProxyGroup
+    2300000: pasted__pCube11
+    2300002: pasted__pCube4
+    2300004: pasted__pCube5
+    2300006: pasted__pCube6
+    2300008: pCube13
+    2300010: pCube14
+    2300012: pCube15
+    2300014: pCube16
+    2300016: pCube6
+    2300018: pCube7
+    2300020: pCube8
+    3300000: pasted__pCube11
+    3300002: pasted__pCube4
+    3300004: pasted__pCube5
+    3300006: pasted__pCube6
+    3300008: pCube13
+    3300010: pCube14
+    3300012: pCube15
+    3300014: pCube16
+    3300016: pCube6
+    3300018: pCube7
+    3300020: pCube8
+    4300000: pasted__pCube4
+    4300002: pasted__pCube5
+    4300004: pasted__pCube6
+    4300006: pCube6
+    4300008: pCube7
+    4300010: pCube8
+    4300012: pasted__pCube11
+    4300014: pCube13
+    4300016: pCube14
+    4300018: pCube15
+    4300020: pCube16
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 125
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

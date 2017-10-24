@@ -1,0 +1,23 @@
+#levels unlocked
+Level2=0:
+Level3=0:
+Level4=0:
+Level5=0:
+Level6=0:
+Level7=0:
+Level8=0:
+
+#PlayerPreferences
+InvertedMouse=0:
+PlayerPositionX=0:
+PlayerPositionY=0:
+PlayerPositionZ=0:
+
+#VolumeSettings
+MasterVolume=1.0:
+SFXVolume=1.0:
+MusicVolume=1=0:
+NarrationVolume=1.0:
+CinematicVolume=1.0:
+Subtitles=0:
+MuteAudio=0:
